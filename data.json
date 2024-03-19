@@ -1,0 +1,237 @@
+{
+  "users": [
+    {
+      "First_name": "v",
+      "Last_name": "j",
+      "e_mail": "vj@gmail.com",
+      "p_number": "9398141936",
+      "Date_of_birth": "2024-01-24",
+      "Gender_status": "male",
+      "Password_in": "$2a$10$IueqAlyTmP.fN9t.Lk9OK.yd/yAWuIEMZPIM.RkuBkW4/bIgpz8sK",
+      "Password_original": "123",
+      "user_name": "gouthamreddy",
+      "chat_data": [],
+      "id": "1"
+    },
+    {
+      "id": "ae20",
+      "First_name": "v",
+      "Last_name": "j",
+      "e_mail": "vj@gmail.com",
+      "p_number": "9997775552",
+      "Date_of_birth": "2005-02-25",
+      "Gender_status": "male",
+      "Password_in": "$2a$10$ww4P9qZecXnSknyAgLicHuApfBqLsebDUecxEiL0Fo9FSC4zd3sXm",
+      "Password_original": "vjvjvj",
+      "user_name": "vj",
+      "chat_data": []
+    },
+    {
+      "id": "f9f6",
+      "First_name": "vara",
+      "Last_name": "prasad",
+      "e_mail": "vk@gmail.com",
+      "p_number": "9398674962",
+      "Date_of_birth": "2004-12-22",
+      "Gender_status": "male",
+      "Password_in": "$2a$10$TmHszCF73ktWSLm8JORuoOqQMZ2pejcFXaHnSF2js3Xsdv.Empp.C",
+      "Password_original": "vjhostel",
+      "user_name": "varaprasad",
+      "chat_data": []
+    }
+  ],
+  "createRides": [
+    {
+      "vehicle_user": "gouthamreddy",
+      "from_address": "Pragati nagar arch",
+      "to_address": "Bachupally",
+      "vehicle_type": "Bike",
+      "date_of_travel": "2024-01-22",
+      "time_of_travel": "06:36",
+      "sets_available": 1,
+      "route_stops": [
+        "vnr vjiet",
+        "nizampet",
+        "green bavarchi"
+      ],
+      "seats_booked": "0",
+      "id": "1"
+    },
+    {
+      "vehicle_user": "gouthamreddy",
+      "from_address": "Pragati nagar arch",
+      "to_address": "Bachupally",
+      "vehicle_type": "Bike",
+      "date_of_travel": "2024-01-22",
+      "time_of_travel": "06:36",
+      "sets_available": 1,
+      "route_stops": [
+        "vnr vjiet",
+        "nizampet",
+        "green bavarchi"
+      ],
+      "seats_booked": "0",
+      "id": "2"
+    },
+    {
+      "vehicle_user": "gouthamreddy",
+      "from_address": "Pragati nagar arch",
+      "to_address": "Bachupally",
+      "vehicle_type": "Bike",
+      "date_of_travel": "2024-01-22",
+      "time_of_travel": "06:36",
+      "sets_available": 1,
+      "route_stops": [
+        "vnr vjiet",
+        "nizampet",
+        "green bavarchi"
+      ],
+      "seats_booked": "0",
+      "id": "3"
+    },
+    {
+      "vehicle_user": "gouthamreddy",
+      "from_address": "Pragati nagar arch",
+      "to_address": "Bachupally",
+      "vehicle_type": "Bike",
+      "date_of_travel": "2024-01-22",
+      "time_of_travel": "06:36",
+      "sets_available": 1,
+      "route_stops": [
+        "vnr vjiet",
+        "nizampet",
+        "green bavarchi"
+      ],
+      "seats_booked": "0",
+      "id": "4"
+    },
+    {
+      "vehicle_user": "gouthamreddy",
+      "from_address": "College",
+      "to_address": "Bachupally",
+      "vehicle_type": "Bike",
+      "date_of_travel": "2024-01-22",
+      "time_of_travel": "06:36",
+      "sets_available": 1,
+      "route_stops": [
+        "vnr vjiet",
+        "nizampet",
+        "green bavarchi"
+      ],
+      "seats_booked": "0",
+      "id": "5"
+    },
+    {
+      "vehicle_user": "gouthamreddy",
+      "from_address": "College",
+      "to_address": "LB nagar",
+      "vehicle_type": "Bike",
+      "date_of_travel": "2024-01-22",
+      "time_of_travel": "06:36",
+      "sets_available": 1,
+      "route_stops": [
+        "vnr vjiet",
+        "nizampet",
+        "green bavarchi"
+      ],
+      "seats_booked": "0",
+      "id": "6"
+    },
+    {
+      "vehicle_user": "gouthamreddy",
+      "from_address": "College",
+      "to_address": "LB nagar",
+      "vehicle_type": "Car 4 seater",
+      "date_of_travel": "2024-01-22",
+      "time_of_travel": "06:36",
+      "sets_available": "4",
+      "route_stops": [
+        "vnr vjiet",
+        "nizampet",
+        "green bavarchi"
+      ],
+      "seats_booked": "0",
+      "id": "7"
+    },
+    {
+      "id": "e843",
+      "vehicle_user": "vj",
+      "from_address": "College",
+      "to_address": "Miapur",
+      "vehicle_type": "Car 4 seater",
+      "date_of_travel": "2024-01-25",
+      "time_of_travel": "06:00",
+      "sets_available": "2",
+      "route_stops": [
+        "bachupally"
+      ],
+      "seats_booked": "0"
+    },
+    {
+      "id": "07f3",
+      "vehicle_user": "varaprasad",
+      "from_address": "Pragati nagar arch",
+      "to_address": "Old Alwal",
+      "vehicle_type": "Scooty",
+      "date_of_travel": "2024-01-26",
+      "time_of_travel": "00:35",
+      "sets_available": 1,
+      "route_stops": [],
+      "seats_booked": "0"
+    },
+    {
+      "id": "dbc3",
+      "vehicle_user": "varaprasad",
+      "from_address": "Pragati nagar arch",
+      "to_address": "Old Alwal",
+      "vehicle_type": "Scooty",
+      "date_of_travel": "2024-01-26",
+      "time_of_travel": "00:35",
+      "sets_available": 1,
+      "route_stops": [],
+      "seats_booked": "0"
+    },
+    {
+      "id": "de01",
+      "vehicle_user": "varaprasad",
+      "from_address": "College",
+      "to_address": "Gandimaisamma",
+      "vehicle_type": "Bike",
+      "date_of_travel": "2024-01-26",
+      "time_of_travel": "00:37",
+      "sets_available": 1,
+      "route_stops": [
+        "nothing specific"
+      ],
+      "seats_booked": "0"
+    },
+    {
+      "id": "4f80",
+      "vehicle_user": "vj",
+      "from_address": "College",
+      "to_address": "Miapur",
+      "vehicle_type": "Car 4 seater",
+      "date_of_travel": "2024-01-27",
+      "time_of_travel": "17:04",
+      "sets_available": 1,
+      "route_stops": [
+        "bachupally"
+      ],
+      "seats_booked": "0"
+    },
+    {
+      "id": "c5cd",
+      "vehicle_user": "vj",
+      "from_address": "College",
+      "to_address": "Miapur",
+      "vehicle_type": "Scooty",
+      "date_of_travel": "2024-01-27",
+      "time_of_travel": "17:38",
+      "sets_available": 1,
+      "route_stops": [
+        "bachupally"
+      ],
+      "seats_booked": "0"
+    }
+  ]
+}

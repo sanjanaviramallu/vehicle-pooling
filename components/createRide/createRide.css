@@ -1,0 +1,101 @@
+/* CreateRide.css */
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.material-icons {
+  font-size: 24px;
+  vertical-align: middle;
+}
+
+.from-to {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.icon {
+  position: relative;
+  top: 2px;
+  margin-right: 5px;
+}
+
+/* Add the rest of your CSS code here */
+/* Apply a general style to the container */
+.createRide {
+  margin: 20px auto;
+  max-width: 600px; 
+  text-align: center;
+}
+
+/* Apply style to the form */
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center the form items */
+}
+
+/* Apply style to labels */
+label {
+  margin-top: 10px;
+}
+
+/* Apply style to input and select elements */
+input,
+select {
+  margin-bottom: 10px;
+  padding: 8px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Apply style to the button */
+button {
+  padding: 8px; /* Reduced button padding */
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+/* Apply style to the stopsInput and its adjacent button */
+.stopsInput {
+  margin-bottom: 10px;
+  width: calc(80% - 5px); /* Adjusted width for the stops input */
+  display: inline-block;
+}
+
+.stopsInput + button {
+  /* margin-left: 5px;
+  padding: 6px; Reduced button padding */
+  
+    margin-left: 5px;
+    padding: 5px;
+    font-size: 14px;
+  
+}
+
+/* Apply style to the error messages */
+p {
+  color: red;
+  margin-bottom: 10px;
+}
+
+/* Apply style to the stops list */
+div p {
+  margin: 5px 0;
+}
+
+/* Apply style to the ride information paragraph */
+div p:first-child {
+  font-weight: bold;
+}
+
+
+
+.vehicle-details,
+.seats {
+  display: flex;
+  flex-direction: column;
+}
+.timedate{
+  display: flex;
+  flex-direction: column;
+}
